@@ -23,11 +23,16 @@ p {
 	font-size: 14px;
 }
 
-a#topmenu {
+.nav {
 	font-size: 18px;
 	color: white;
 }
 
 #banner {
 	background-image: url("../images/the-flatiron-building.png");
+}
+
+.location {
+	background-image: url("../images/the-flatiron-building.png");
+	color: white;
 }
