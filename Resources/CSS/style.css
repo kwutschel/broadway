@@ -36,3 +36,8 @@ p {
 	background-image: url("../images/the-flatiron-building.png");
 	color: white;
 }
+
+.footer {
+	background-color: dimgrey;
+	font-size: 11px;
+}
